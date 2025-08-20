@@ -11,7 +11,7 @@ function saveAndNavigate() {
 }
 var fornamn = ('Mille');
 var efternamn = ('Weber');
-var age = ('18');
+var age = ('19');
 var personnummer = ('060929-0593');
 document.getElementById("updateEfternamn").textContent = efternamn;
 document.getElementById("updateFornamn").textContent = fornamn;
